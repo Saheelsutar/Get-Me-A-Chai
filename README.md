@@ -45,5 +45,5 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/buy-me-a-chai.git
-   cd buy-me-a-chai
+   git clone https://github.com/Saheelsutar/Get-Me-A-Chai.git
+   cd Get-Me-A-Chai
