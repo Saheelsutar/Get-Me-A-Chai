@@ -131,9 +131,9 @@ const PaymentPage = ({ currentUser, username, payment }) => {
                             >Pay</button></div>
 
                         <div className="flex gap-2 mt-5">
-                            <button onClick={() => pay(1000)} className='bg-slate-800 p-3 rounded-lg'>Pay ₹10</button>
-                            <button onClick={() => pay(2000)} className='bg-slate-800 p-3 rounded-lg'>Pay ₹20</button>
-                            <button onClick={() => pay(3000)} className='bg-slate-800 p-3 rounded-lg'>Pay ₹30</button>
+                            <button onClick={() => pay(100)} className='bg-slate-800 p-3 rounded-lg'>Pay ₹100</button>
+                            <button onClick={() => pay(200)} className='bg-slate-800 p-3 rounded-lg'>Pay ₹200</button>
+                            <button onClick={() => pay(300)} className='bg-slate-800 p-3 rounded-lg'>Pay ₹300</button>
                         </div>
                     </div>
                 </div>
